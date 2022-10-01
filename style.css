@@ -1,0 +1,50 @@
+div{
+    background-color: aqua;
+    padding: 30px;
+}
+
+nav{
+    background-color:aqua;
+    overflow: hidden;
+}
+
+nav a{
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+#roboto{
+    font-family:Roboto;
+}
+
+#Open{
+    font-family:Open Sans;
+}
+#lato{
+    font-family:Lato;
+}
+#montserrat{
+    font-family:Montserrat;
+}
+#oswald{
+    font-family:Oswald;
+}
+#source{
+    font-family:Source Sans Pro;
+}
+#slabo{
+    font-family:Slabo;
+}
+#raleway{
+    font-family:Raleway;
+}
+#P{
+    font-family:PT Sans;
+}
+#Merriweather{
+    font-family:Merriweather;
+}
